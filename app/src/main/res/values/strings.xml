@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Vista Hola mUndo</string>
+    <string-array name="origin">
+        <item>uno</item>
+        <item>dos</item>
+        <item>tres</item>
+        <item>cuatro</item>
+        <item>cinco</item>
+    </string-array>
+</resources>
